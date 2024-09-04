@@ -22,10 +22,10 @@ Below are the instructions for this assignment. Your repository should automatic
 
 ### 📝 TODO: Complete this section
 
-* **Your name and PID**:
+* **Your name and PID**: Ben Fielder benf02@vt.edu
 
-* **Your partner's name and PID:**
+* **Your partner's name and PID: Kishitij Kaushal kishitijk@vt.edu
 
-* **Link to selected coding challenge:**
+* **Link to selected coding challenge: https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/?envType=study-plan-v2&envId=leetcode-75
 
-* **Summary of partner's interview feedback:**
+* **Summary of partner's interview feedback: overall good, struggled with syntack a little bit, although that can be fixed pretty easily. Don't forget to think outloud
